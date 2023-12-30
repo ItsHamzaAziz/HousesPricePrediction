@@ -8,4 +8,4 @@ This is my Machine Learning Project in which I used property data to predict pri
 <br>In addition to I also saved my model ia a file using joblib in the end.
 
 ## IDE & Programming Language:
-This project was written using Jupyter Notebook whereas Python was used as a programming language.
+This project was written using Jupyter Notebook whereas Python was used as the programming language.
